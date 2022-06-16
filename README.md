@@ -26,4 +26,4 @@
 
 ## Extras
 - 💻 Atualmente apenas estudando na UFPB
-- 📖 Estudando microcontroladores e Fog Computing
+- 📖 Estudando microcontroladores e Mobile Edge Computing (MEC)
